@@ -32,4 +32,10 @@ pod 'YYKit'
 
 pod 'Moya/ReactiveSwift'
 pod 'Alamofire', '~> 4.5'
+
+pod 'DZNEmptyDataSet'
+
+pod 'PermissionScope'
+pod 'SwiftyUserDefaults'
+pod 'Kingfisher'
 end
